@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* font-family: 'Roboto Mono', monospace; */
+}
+
+ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+ul li {
+    list-style-type: none;
+    margin: 60px;
+    font-size: 25px;
+}
+
+h1 {
+    color: black;
+}
+
+li {
+    display: inline-block;
+}
+
+.third,
+.forth {
+    text-align: center;
+    margin: 50px;
+}
+
+button {
+    background: cornflowerblue;
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+    margin: 20px;
+    border: 2px solid cornflowerblue;
+    border-radius: 50px;
+}
+
+.first {
+    background: linear-gradient(rgba(225, 0, 225, 0.5), rgba(225, 0, 225, 0.5)), url(lotte-world-tower-gc7a3d547e_1920.jpg);
+    background-repeat: none;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+    width: auto;
+}
+
+.overall {
+    background: linear-gradient(rgba(225, 0, 225, 0.5), rgba(225, 0, 225, 0.5)), url(lotte-world-tower-gc7a3d547e_1920.jpg);
+    background-repeat: none;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 700px;
+    width: auto;
+}
+
+.fifth {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.sixth {
+    text-align: center;
+    margin-top: 20px;
+}
+
+body {
+    text-align: center;
+}
+
+.secondtwo,
+.thirdthree {
+    padding: 20px;
+    margin: 20px;
+}
+
+input {
+    padding: 5px;
+    background: plum;
+}
+
+.over {
+    margin: 20px;
+}
+
+.firsttwo {
+    background: linear-gradient(rgba(225, 0, 225, 0.5), rgba(225, 0, 225, 0.5)), url(lotte-world-tower-gc7a3d547e_1920.jpg);
+    background-repeat: none;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 700px;
+    width: auto;
+}
+
+.firstthree {
+    background: linear-gradient(rgba(225, 0, 225, 0.5), rgba(225, 0, 225, 0.5)), url(lotte-world-tower-gc7a3d547e_1920.jpg);
+    background-repeat: none;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 700px;
+    width: auto;
+}
+
+.last {
+    background: linear-gradient(rgba(225, 0, 225, 0.5), rgba(225, 0, 225, 0.5)), url(lotte-world-tower-gc7a3d547e_1920.jpg);
+    background-repeat: none;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 700px;
+    width: auto;
+}
+
+textarea {
+    padding: 20px;
+    margin: 20px;
+    background: plum;
+}
+
+.view,
+.close,
+.open {
+    margin: 20px;
+}
+
+.ruth {
+    float: left;
+}
+
+.thirdfor {
+    overflow: hidden;
+    height: 30px;
+}
+
+.secondone,
+.thirdone,
+.forthone,
+.fifthone,
+.seventhone {
+    padding: 10px;
+}
+
+select {
+    padding: 5px;
+    background: plum;
+}
+
+option {
+    font-size: 20px;
+    margin: 20px;
+}
